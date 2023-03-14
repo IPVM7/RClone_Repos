@@ -1,1 +1,1 @@
-Small proyect created for practicing different technologies and frameworks.
+Small project created to practice different technologies and frameworks.
